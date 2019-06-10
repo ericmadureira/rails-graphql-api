@@ -1,6 +1,6 @@
 # GraphQL API
 ## GraphQL
-* Developed by people at Facebook as an alternative to the REST architecture. It has some advantages like:
+Developed by people at Facebook as an alternative to the REST architecture. It has some advantages like:
  * we can request for all the data we need in one go.
  * it returns only the data we need.
  * it reduces the need for API versioning by providing tools for continuous evolution of the GraphQL schema.
